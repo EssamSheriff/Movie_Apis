@@ -26,7 +26,11 @@ Movies API application is a tutorial about .net 6 Apis which manages movies, you
       3) Delete Genre
       4) Get all Genres
 
+## Built With
+1) Visual Code (VS) 2019
+2) Microsoft SQL Server Management Studio (SSMS)
 
+   
 ## Run and Screenshots
 ![Screenshot (18)](https://github.com/EssamSheriff/Movie_Apis/assets/72581790/d9e92f01-725f-4cbc-b38f-167671b46fd9)
 
