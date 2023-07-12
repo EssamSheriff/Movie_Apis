@@ -27,7 +27,7 @@ Movies API application is a tutorial about .net 6 Apis which manages movies, you
       4) Get all Genres
 
 ## Built With
-1) Visual Code (VS) 2019
+1) Visual Code (VS) 2022
 2) Microsoft SQL Server Management Studio (SSMS)
 
    
