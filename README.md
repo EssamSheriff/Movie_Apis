@@ -1,7 +1,7 @@
 # Movie Apis Application
 
 ## Introduction
-Movies API application is a tutorial about .net 6 Apis which manages movies, you can create or delete or update movies easily and handle the movie poster, and can also manage Genre Table.
+Movies API application is a tutorial Using .net 6 Apis which manages movies, you can create, delete, update movies easily and handle the movie poster, and also manage the Genre Table.
 
 ## Technologies
 1) .net 6
